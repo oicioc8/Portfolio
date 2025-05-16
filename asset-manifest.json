@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.3aaaf6b7.css",
-    "main.js": "/Portfolio/static/js/main.049893c2.js",
+    "main.css": "/Portfolio/static/css/main.31ff9e45.css",
+    "main.js": "/Portfolio/static/js/main.75b0b4b1.js",
     "static/js/453.acca0757.chunk.js": "/Portfolio/static/js/453.acca0757.chunk.js",
     "static/media/KoPub-Batang-Bold.woff": "/Portfolio/static/media/KoPub-Batang-Bold.0f2aec5f5cb6e9e9b6e5.woff",
     "static/media/KoPub-Batang-Light.woff": "/Portfolio/static/media/KoPub-Batang-Light.ce2b00b2c8c135bfb02d.woff",
@@ -25,12 +25,12 @@
     "static/media/github.png": "/Portfolio/static/media/github.f11021803f68852df283.png",
     "static/media/logo.png": "/Portfolio/static/media/logo.d8fe07734d3294e874a7.png",
     "index.html": "/Portfolio/index.html",
-    "main.3aaaf6b7.css.map": "/Portfolio/static/css/main.3aaaf6b7.css.map",
-    "main.049893c2.js.map": "/Portfolio/static/js/main.049893c2.js.map",
+    "main.31ff9e45.css.map": "/Portfolio/static/css/main.31ff9e45.css.map",
+    "main.75b0b4b1.js.map": "/Portfolio/static/js/main.75b0b4b1.js.map",
     "453.acca0757.chunk.js.map": "/Portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aaaf6b7.css",
-    "static/js/main.049893c2.js"
+    "static/css/main.31ff9e45.css",
+    "static/js/main.75b0b4b1.js"
   ]
 }
